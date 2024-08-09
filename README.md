@@ -1,2 +1,2 @@
 # GenaroDejorge_Proyectos
-En este repositorio voy a ir dejando proyectos propios o archivos de vscode que me ayudaran a practicar y dejar por sentado mis practicas.
+Este repositorio se va a utilizar para dejar proyectos en constante busqueda de mejora que asienten mis practicas y conocimientos.
